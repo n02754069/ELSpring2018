@@ -6,7 +6,7 @@
 
 This is my repository for CPS342
 
-1. Personal Information:
+1. ######Personal Information:
 	* Name: Jack Closs
 	* Major: computer science
 	* ID: [N02754069](https://github.com/n02754069/ELSpring2018)
